@@ -5,7 +5,7 @@ This wil cover Following topics:-
 
 
 
-1.How to Configure JUnit in Android Studio.
+1. How to Configure JUnit in Android Studio.
 
 
 
@@ -13,24 +13,24 @@ This wil cover Following topics:-
 
 
 
-2.JUnit Annotations:-
+2. JUnit Annotations:-
 
-startUp()
-2. setUpTest()
-3. firstTest()
-4. teardownTest()
-5. setUpTest()
-6. secondTest()
-7. tearDownTest()
-8. End()
-
-
+- startUp()
+- setUpTest()
+- firstTest()
+- teardownTest()
+- setUpTest()
+- secondTest()
+- tearDownTest()
+- End()
 
 
 
 
 
-3.JUnit Assertions:-
+
+
+3. JUnit Assertions:-
 
 1. assertTrue([message,] boolean condition) - Checks that the boolean condition is true.
 2. assertFalse([message,] boolean condition) - Checks that the boolean condition is false.
@@ -48,7 +48,7 @@ startUp()
  
  
 
-4.JUnit Test Suit and Test Execution Order:-
+4. JUnit Test Suit and Test Execution Order:-
 
     FirstTestClass.class,
         SecondTestClass.class,
@@ -59,6 +59,6 @@ startUp()
            
            
 
-5.JUnit Parameterized Tests.
+5. JUnit Parameterized Tests.
 
-6.JUnit Categories
+6. JUnit Categories
