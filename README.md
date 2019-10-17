@@ -1,17 +1,19 @@
 # JunitTest_IntegrationType
 This Project explain about JunitTest Integration, Method Flow type, Control over the Code execution , test categories etc.
-
 This wil cover Following topics:- 
 
 
 
 
-- How to Configure JUnit in Android Studio.
+1.How to Configure JUnit in Android Studio.
 
 
 
 
--JUnit Annotations:-
+
+
+
+2.JUnit Annotations:-
 
 startUp()
 2. setUpTest()
@@ -23,7 +25,12 @@ startUp()
 8. End()
 
 
--JUnit Assertions:-
+
+
+
+
+
+3.JUnit Assertions:-
 
 1. assertTrue([message,] boolean condition) - Checks that the boolean condition is true.
 2. assertFalse([message,] boolean condition) - Checks that the boolean condition is false.
@@ -32,16 +39,26 @@ startUp()
 4. assertNull([message,] object) - Checks that the object is null. 
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
--JUnit Test Suit and Test Execution Order:-
+4.JUnit Test Suit and Test Execution Order:-
 
     FirstTestClass.class,
         SecondTestClass.class,
                 ThirdTestClass.class 
                 
                 
-                
+           
+           
+           
 
--JUnit Parameterized Tests.
+5.JUnit Parameterized Tests.
 
--JUnit Categories
+6.JUnit Categories
